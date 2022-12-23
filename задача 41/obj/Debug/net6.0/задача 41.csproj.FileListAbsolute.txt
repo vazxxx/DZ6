@@ -1,0 +1,15 @@
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\obj\Debug\net6.0\задача 41.csproj.AssemblyReference.cache
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\obj\Debug\net6.0\задача 41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\obj\Debug\net6.0\задача 41.AssemblyInfoInputs.cache
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\obj\Debug\net6.0\задача 41.AssemblyInfo.cs
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\obj\Debug\net6.0\задача 41.csproj.CoreCompileInputs.cache
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\bin\Debug\net6.0\задача 41.exe
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\bin\Debug\net6.0\задача 41.deps.json
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\bin\Debug\net6.0\задача 41.runtimeconfig.json
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\bin\Debug\net6.0\задача 41.dll
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\bin\Debug\net6.0\задача 41.pdb
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\obj\Debug\net6.0\задача 41.dll
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\obj\Debug\net6.0\refint\задача 41.dll
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\obj\Debug\net6.0\задача 41.pdb
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\obj\Debug\net6.0\задача 41.genruntimeconfig.cache
+C:\Users\VaZ\Desktop\Gik\DZ6\задача 41\obj\Debug\net6.0\ref\задача 41.dll
